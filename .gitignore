@@ -52,6 +52,7 @@ contrib/pyln-*/.eggs/
 contrib/pyln-*/pyln/*/__version__.py
 release/
 tests/plugins/test_selfdisable_after_getmanifest
+build
 
 # Ignore generated files
 devtools/features
